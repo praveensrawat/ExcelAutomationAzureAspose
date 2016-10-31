@@ -1,6 +1,6 @@
 
 # ExcelAutomationAzureAspose
-Excel Automation using ASPose 3rd party component and Azure Blob Storage.
+This sample demonstrates Excel Automation using ASPose 3rd party component with Azure Blob Storage.
 
 1. Create a storage account in Azure. 
 
